@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'https://jishnutestapp.glitch.me'
+  url: 'https://automatic-broken-feels.glitch.me'
 };
 
 /*
